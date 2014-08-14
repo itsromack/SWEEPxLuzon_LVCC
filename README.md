@@ -11,3 +11,8 @@ Professional School - Room 308
 Attendees from La Verdad Christian College:
 * Romack L. Natividad
 * Rodrigo Galura III
+
+UNTV News Pampanga
+* Aiko
+* Leslie
+* Mark
