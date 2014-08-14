@@ -35,10 +35,12 @@ public class MainActivity extends ActionBarActivity {
                 Toast.makeText(getApplicationContext(), letter, Toast.LENGTH_SHORT).show();
                 EditText text = (EditText) findViewById(R.id.editText);
                 text.setText(text.getText() + letter);
+                if (text.getText().toString() == "HELLOWORLD") {
+                    Toast.makeText(getApplicationContext(), "Hello World!", Toast.LENGTH_LONG).show();
+                }
             }
         });
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
