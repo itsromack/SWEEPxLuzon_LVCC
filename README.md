@@ -10,4 +10,4 @@ Professional School - Room 308
 
 Attendees from La Verdad Christian College:
 * Romack L. Natividad
-* Rodrigo Galura
+* Rodrigo Galura III
