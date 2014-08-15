@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">La Verdad Christian College</string>
+    <string name="action_settings">Settings</string>
+    <string name="school_name">La Verdad Christian College</string>
+    <string name="school_about">LVCC is committed to provide quality education at pace with the changing times while imparting wisdom based on biblical truth to communities.</string>
+    <string name="school_vision">The institution that ensures quality learning and Biblical moral standards.</string>
+    <string name="school_mission">To be the front runner in providing academic excellence and morally upright principles.</string>
+    <string name="school_courses">I. PRE-SCHOOL (with pay)
+
+II. Grade 1 - Grade 10
+
+III. CHED Program:
+a. 5 - Year Bachelor of Science in Accountancy
+b. 4 - Year Bachelor of Science in Accounting Technology
+c. 4 - Year Bachelor of Arts in Broadcasting
+d. 4 - Year Bachelor of Science in Information System
+e. 2 - Year Associate in Computer Technology
+
+IV. TESDA Program:
+a. Mass Communication Technology
+b. Health Care Services
+c. Office Management
+d. Cookery
+</string>
+    <string name="ask_question">Ask a question here</string>
+    <string name="submit">Submit</string>
+
+</resources>
